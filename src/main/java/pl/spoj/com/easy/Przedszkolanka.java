@@ -1,4 +1,4 @@
-package pl.spoj.com;
+package pl.spoj.com.easy;
 
 import java.util.Scanner;
 
